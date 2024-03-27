@@ -1,5 +1,5 @@
 # Supermarket Simulator Mod
-This mod gives your restockers very fast walking speed and stocking speed. This mod also gives you $100,000 every time you buy a product.
+This mod gives your restockers very fast walking speed, stocking speed and gives you $100,000 every time you buy a product.
 
 ## Getting Started
 You can make a backup copy of your Supermarket Simulator Assembly-CSharp.dll or if for some reason the file gets corrupt you can always 'verify integritey of game files' through steam. That will give you the original Supermarket Simulator Assembly-CSharp.dll while still keeping your saves and progress.
